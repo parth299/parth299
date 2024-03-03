@@ -33,7 +33,7 @@ I am a Computer Science Student and a Full-stack developer having expertise in t
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=parth&label=Visitors&color=1&icon=5&pretty=false" alt='Profile Views' width=100 height=50 />
+    <img src="https://visitcount.itsvg.in/api?id=parth&label=Visitors&color=1&icon=5&pretty=false" alt='Profile Views' width=100 height=20 />
   </a>
 </div>
 
