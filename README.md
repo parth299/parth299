@@ -31,6 +31,11 @@ I am a Computer Science Student and a Full-stack developer having expertise in t
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mssql" width="40" height="40"/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parth299&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parth299&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parth299&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="left">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=parth&label=Visitors&color=1&icon=5&pretty=false" alt='Profile Views' width=100 height=20 />
