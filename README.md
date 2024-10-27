@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://i.ibb.co/StmpKF7/Screenshot-2024-03-03-at-02-52-22.png" alt="Screenshot-2024-03-03-at-02-52-22" border="0">
-</div>
 
 ### Hi there, 👋 I am Parth!
 Full Stack Dev 
